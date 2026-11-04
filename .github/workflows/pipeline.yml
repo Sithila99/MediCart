@@ -1,4 +1,4 @@
-name: MediCart
+name: MediCart pipeline
 
 on:
   push:
